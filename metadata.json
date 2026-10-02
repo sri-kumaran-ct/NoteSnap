@@ -1,0 +1,6 @@
+{
+  "name": "NoteSnap",
+  "description": "AI-powered study assistant to capture handwritten notes, extract text with OCR, draw on digital whiteboards, and generate summaries, flashcards, quizzes, and AI explanations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
