@@ -1,9 +1,3 @@
-<div align="center">
-
-<img width="1200" height="475" alt="Android Application" src="https://developer.android.com/static/studio/images/studio-icon-preview.png" />
-
-</div>
-
 # Run and Deploy Your Android App
 
 This repository contains everything you need to build, run, and deploy the Android application locally using Android Studio.
