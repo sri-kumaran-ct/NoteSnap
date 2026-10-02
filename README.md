@@ -1,3 +1,62 @@
+# SmartNoteAI
+
+SmartNoteAI is an AI-powered mobile application that converts handwritten and printed notes into structured study materials. It combines OCR and Gemini AI to help students generate summaries, quizzes, flashcards, and interactive study content.
+
+## Project Overview
+
+The application is designed to simplify the process of converting study notes into useful learning resources. Users can capture or upload notes, extract their content using OCR, and use AI to generate personalized study materials.
+
+## Key Features
+
+* Handwritten and printed note processing
+* OCR-based text extraction
+* AI-powered note summarization
+* Automatic quiz generation
+* Flashcard generation
+* AI-based question answering
+* Interactive study assistance
+
+## Technologies Used
+
+* Android Studio
+* Kotlin
+* Gemini AI
+* OCR
+* Android SDK
+* XML / Android UI
+* REST API
+
+## Application Workflow
+
+1. Users capture or upload their study notes.
+2. OCR extracts the text from the notes.
+3. The extracted content is processed by the application.
+4. Gemini AI analyzes the content and generates study materials.
+5. Users can access summaries, quizzes, flashcards, and AI-generated responses.
+
+## Applications
+
+The application can be useful for:
+
+* Students and learners
+* Exam preparation
+* Quick revision
+* Converting handwritten notes into digital study material
+* AI-assisted learning
+
+## Project Team
+
+**Frontend Developer Lead**
+Responsible for leading frontend development, coordinating UI implementation, reviewing code, and ensuring a consistent user interface.
+
+**Documentation and Research Paper Lead**
+Responsible for organizing project documentation, conducting research, and preparing and maintaining the research paper.
+
+## Future Scope
+
+The application can be further enhanced with improved OCR accuracy, personalized learning recommendations, multilingual support, cloud synchronization, and additional AI-powered learning features.
+
+
 # Run and Deploy Your Android App
 
 This repository contains everything you need to build, run, and deploy the Android application locally using Android Studio.
